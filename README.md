@@ -30,3 +30,7 @@ iwconfig
 # or
 ip link show
 ```
+
+## Why C#
+
+C# is great as it can do almost everything low level languages can do at around 95% of the preformance. You need to be writing native code to handle these types of projects.
