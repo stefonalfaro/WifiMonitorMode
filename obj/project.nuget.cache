@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTrRXfJmug4=",
+  "success": true,
+  "projectFilePath": "/home/stefonalfaro/Documents/CodeLearning/C#/WifiMonitorMode/WifiMonitorMode.csproj",
+  "expectedPackageFiles": [
+    "/home/stefonalfaro/.nuget/packages/packetdotnet/1.4.8/packetdotnet.1.4.8.nupkg.sha512",
+    "/home/stefonalfaro/.nuget/packages/sharppcap/6.3.1/sharppcap.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
