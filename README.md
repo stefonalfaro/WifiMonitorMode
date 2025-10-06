@@ -1,6 +1,7 @@
 # Wifi Monitor Mode Access Point and Device Scanner
 
 Many people don't realize but all wifi traffic is public. You can associate user devices to the access point they are connected to without being connected to the network itself.
+
 <img width="602" height="859" alt="Screenshot from 2025-10-06 11-34-15" src="https://github.com/user-attachments/assets/f4fcb9ae-bcae-4781-bb8b-a052c8ced0e6" />
 
 ## Monitor Mode
